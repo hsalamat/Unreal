@@ -113,3 +113,12 @@ Level 04_03
 10. Drag the Terrain Static Mesh and add it to the scene. Use Alt+ Left click and drag to move the terrain.
 
 ### Skeletal Meshes
+Level 04_04
+1. Unreal Engine Skeletal Meshes let you work with meshes that have deformations or skeleton applied. Typically, it's used for characters.
+2. Let's import Assets/Character.fbx into Assets/character folder.
+3. Unreal knows it's a skeletal mesh and it automatically checks its box for you. Make sure that "Import Content Type" is set to "Geometry and Skinning Weights"
+4. Double click on Character skeletal mesh. Skeletal Mesh Editor is very similar to Static Mesh Editor, but it has a couple of other tabs. 
+5. We have Skeleton tab and below that, we have asset details, which includes materials, levels of detail like a standard mesh. in addition to that, it has details for the skeletal mesh as well as for animation.
+6. Click on "Charater_Skeleton" icon on top of the tabs, and then you see each one of these individual bones/joints on the left side. Click on "Spine" and rotate the upper body.
+7. Click on "Character_PhysicsAsset" icon on top of the tabs. This is basically just capsules placed aroud the bones to give collision to that character. Because the character constantly deforms, just having a one capsule around the character for collision might not work. That's why have more capsules and that's what this physics asset does.
+8. When you work with skeleton-based assets, you'll be using skeletal mesh editor!
