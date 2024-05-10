@@ -1,0 +1,1277 @@
+<DatasmithUnrealScene>
+	<Version>0.24</Version>
+	<SDKVersion>5.3.0-27405482</SDKVersion>
+	<Host>SketchUp</Host>
+	<Application Vendor="Trimble Inc." ProductName="SketchUp Pro" ProductVersion="23.0.419"/>
+	<ResourcePath>C:/Users/Lynda/Desktop/Exercise Files/Assets/Datasmith</ResourcePath>
+	<User ID="76ff3b66490fdde190fa77aeb13ada15" OS="Windows 10 (22H2) [10.0.19045.3324]"/>
+	<Geolocation lat="40.018309" lon="-105.242139"/>
+	<StaticMesh name="M9559_1" label="1x4x20">
+		<file path="RanchHouse_Assets/M9559_1.udsmesh"/>
+		<Size a="11193.525391" x="487.679993" y="8.89" z="2.54"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5e72c028b6ea76a37d41e7c96ee50d82"/>
+		<Material id="1" name="Wood_Veneer_01-L54806d255e87528df2ba9898e4957c4d"/>
+	</StaticMesh>
+	<StaticMesh name="M9187_1" label="4x4Windo">
+		<file path="RanchHouse_Assets/M9187_1.udsmesh"/>
+		<Size a="25316.080078" x="121.919998" y="7.62" z="121.919998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d1fc48803ff27e47941ab5f5b5b5ea46"/>
+		<Material id="1" name="0135_DarkGray-Lb4ca666c4347886458857469a845a29e"/>
+		<Material id="2" name="Translucent_Glass_Blue-L57f3f5d9abd81f160c0ccf164a1c1c9e"/>
+	</StaticMesh>
+	<StaticMesh name="M92c5_1" label="GlassDoor">
+		<file path="RanchHouse_Assets/M92c5_1.udsmesh"/>
+		<Size a="33445.085938" x="91.440002" y="7.62" z="218.440002"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5f80e9c952eab70ac9b73c5242a75733"/>
+		<Material id="1" name="Translucent_Glass_Blue-L57f3f5d9abd81f160c0ccf164a1c1c9e"/>
+		<Material id="2" name="0135_DarkGray-Lb4ca666c4347886458857469a845a29e"/>
+	</StaticMesh>
+	<StaticMesh name="M9427_1" label="UpperWindow">
+		<file path="RanchHouse_Assets/M9427_1.udsmesh"/>
+		<Size a="45181.777344" x="182.880005" y="7.62" z="143.785995"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3cf751ac510e313d2e9c0886e2c99445"/>
+		<Material id="1" name="0135_DarkGray-Lb4ca666c4347886458857469a845a29e"/>
+		<Material id="2" name="Translucent_Glass_Blue-L57f3f5d9abd81f160c0ccf164a1c1c9e"/>
+	</StaticMesh>
+	<StaticMesh name="M9621_1" label="4x4x48">
+		<file path="RanchHouse_Assets/M9621_1.udsmesh"/>
+		<Size a="5161.279785" x="10.16" y="10.16" z="121.919998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="131f312100307367da3f26ffe440a9cb"/>
+		<Material id="0" name="Default"/>
+	</StaticMesh>
+	<StaticMesh name="M9738_1" label="2x4_Paver">
+		<file path="RanchHouse_Assets/M9738_1.udsmesh"/>
+		<Size a="24774.144531" x="182.880005" y="60.959999" z="5.08"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5477bf01984d503f14d0b14bc8939a07"/>
+		<Material id="1" name="Polished_Concrete_New-L33754b990aa28afb2e6175c4dc1c25ed"/>
+	</StaticMesh>
+	<StaticMesh name="M8e0a_1" label="Group_7">
+		<file path="RanchHouse_Assets/M8e0a_1.udsmesh"/>
+		<Size a="40405.65625" x="284.480011" y="0.0" z="169.924088"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a9ce764422b2278ad457c68f8792448f"/>
+		<Material id="0" name="Default"/>
+	</StaticMesh>
+	<StaticMesh name="M8e2c_1" label="Group_10">
+		<file path="RanchHouse_Assets/M8e2c_1.udsmesh"/>
+		<Size a="4129.023926" x="25.4" y="0.0" z="162.559998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9bffa264c60d19a8be35b6a71c852871"/>
+		<Material id="0" name="Default"/>
+	</StaticMesh>
+	<StaticMesh name="M8e37_1" label="Group_11">
+		<file path="RanchHouse_Assets/M8e37_1.udsmesh"/>
+		<Size a="104794.625" x="243.839996" y="0.0" z="454.152008"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="045a7d73b47b6504f67d7e70f4636644"/>
+		<Material id="1" name="Translucent_Glass_Blue-L57f3f5d9abd81f160c0ccf164a1c1c9e"/>
+	</StaticMesh>
+	<StaticMesh name="M85a9_1" label="Group_2">
+		<file path="RanchHouse_Assets/M85a9_1.udsmesh"/>
+		<Size a="4005979.0" x="1737.359985" y="1127.76001" z="15.24"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="503309a5ffce4dfff94c21d92f30bd77"/>
+		<Material id="0" name="Default"/>
+	</StaticMesh>
+	<StaticMesh name="M8618_1" label="Group_1">
+		<file path="RanchHouse_Assets/M8618_1.udsmesh"/>
+		<Size a="4466910.5" x="1987.812134" y="1178.560059" z="271.643372"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="43bdc36949b1255e0ce5b9dd0ac77f37"/>
+		<Material id="1" name="Roofing_Shingles_Asphalt-L21ca36658c90b8ec4ddd9efed0c814f5"/>
+		<Material id="2" name="0135_DarkGray-Lb4ca666c4347886458857469a845a29e"/>
+	</StaticMesh>
+	<StaticMesh name="M862f_1" label="Group_3">
+		<file path="RanchHouse_Assets/M862f_1.udsmesh"/>
+		<Size a="390441.21875" x="198.086044" y="91.440002" z="578.221558"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="275e3c3bca59b969662e8d888e93c833"/>
+		<Material id="0" name="Default"/>
+		<Material id="1" name="Rough_Square_Concrete_Block-Lb9c9840c76da9305a6ea5dfae7cac1a0"/>
+		<Material id="2" name="0135_DarkGray-Lb4ca666c4347886458857469a845a29e"/>
+	</StaticMesh>
+	<StaticMesh name="M8a8a_1" label="Group_4">
+		<file path="RanchHouse_Assets/M8a8a_1.udsmesh"/>
+		<Size a="3637431.25" x="1737.359985" y="1127.76001" z="487.679993"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5e372e84228c7f577b78f21b1a17683d"/>
+		<Material id="0" name="Default"/>
+		<Material id="1" name="Modern_Siding-Le4c9b57830a378415a68f5bca1c35d69"/>
+		<Material id="2" name="Polished_Concrete_New-L33754b990aa28afb2e6175c4dc1c25ed"/>
+		<Material id="3" name="Rough_Square_Concrete_Block-Lb9c9840c76da9305a6ea5dfae7cac1a0"/>
+	</StaticMesh>
+	<StaticMesh name="M8c9f_1" label="Group_5">
+		<file path="RanchHouse_Assets/M8c9f_1.udsmesh"/>
+		<Size a="47199.886719" x="101.599998" y="7.62" z="218.440002"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="af56fcd7bd2cbfecdb969edd899ca697"/>
+		<Material id="0" name="Default"/>
+		<Material id="1" name="0024_OrangeRed-L6a5a5a07c75ce63206bbcd479054470b"/>
+	</StaticMesh>
+	<StaticMesh name="M8df1_1" label="Group_6">
+		<file path="RanchHouse_Assets/M8df1_1.udsmesh"/>
+		<Size a="26169.703125" x="284.480011" y="7.62" z="454.802155"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6b8217c4b521318d6ad63158c3ea3e33"/>
+		<Material id="0" name="Default"/>
+	</StaticMesh>
+	<StaticMesh name="M8e16_1" label="Group_8">
+		<file path="RanchHouse_Assets/M8e16_1.udsmesh"/>
+		<Size a="9348.369141" x="131.445007" y="0.0" z="71.120003"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0b42b7a99e6e3d6a8f85eedd2950ef21"/>
+		<Material id="1" name="Translucent_Glass_Blue-L57f3f5d9abd81f160c0ccf164a1c1c9e"/>
+	</StaticMesh>
+	<StaticMesh name="M8e21_1" label="Group_9">
+		<file path="RanchHouse_Assets/M8e21_1.udsmesh"/>
+		<Size a="4854.829102" x="22.225" y="0.0" z="218.440002"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d3e65874a54d147b80cb77c5b81d1d3a"/>
+		<Material id="0" name="Default"/>
+	</StaticMesh>
+	<StaticMesh name="M8f7e_1" label="Group_12">
+		<file path="RanchHouse_Assets/M8f7e_1.udsmesh"/>
+		<Size a="27430.779297" x="243.839996" y="7.62" z="424.43399"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3e467685073b33e8265bad3c16d3625b"/>
+		<Material id="0" name="Default"/>
+	</StaticMesh>
+	<StaticMesh name="M964b_1" label="Group_16">
+		<file path="RanchHouse_Assets/M964b_1.udsmesh"/>
+		<Size a="5255165.5" x="2301.779541" y="2283.088135" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="544001a30b37685bc6c68470198716d5"/>
+		<Material id="0" name="Default"/>
+	</StaticMesh>
+	<StaticMesh name="M97e8_1" label="Group_17">
+		<file path="RanchHouse_Assets/M97e8_1.udsmesh"/>
+		<Size a="222550.515625" x="827.563721" y="101.441246" z="20.002501"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="03511b7a65a71acaaf5e6aec4c38c3de"/>
+		<Material id="1" name="Concrete_Block_8x8_Gray-L763bde77fea8aa51fbac311be4287a17"/>
+		<Material id="2" name="Water_Sparkling-Lfe62305f2d33dfe2b9429310802e0600"/>
+	</StaticMesh>
+	<StaticMesh name="M981e_1" label="Group_18">
+		<file path="RanchHouse_Assets/M981e_1.udsmesh"/>
+		<Size a="173197.359375" x="639.60376" y="101.441246" z="20.002501"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="319a7912b36e78b5487a6ed69094c176"/>
+		<Material id="1" name="Concrete_Block_8x8_Gray-L763bde77fea8aa51fbac311be4287a17"/>
+		<Material id="2" name="Water_Sparkling-Lfe62305f2d33dfe2b9429310802e0600"/>
+	</StaticMesh>
+	<Actor name="SU_38110" label="RanchHouse" layer="Layer0">
+		<Transform tx="-130.215408" ty="25.4" tz="-5.08" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0Az7WOEXjEWRW1wjrKW9iJ" />
+		<tag value="SU.PATH.0.38110" />
+		<children visible="true">
+			<ActorMesh name="SU_38110_37182_1" label="4x4Windo" layer="Layer0">
+				<mesh name="M9187_1"/>
+				<Transform tx="1733.550049" ty="-502.920013" tz="101.599998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex64="00000000000000800000000000000000000000609EA0E6BF000000609EA0E63F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.3xLPNZ3NH22vz74nDrXVsD" />
+				<tag value="SU.PATH.0.38110.37182" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.3xLPNZ3NH22vz74nDrXVsD" />
+				<tag value="SU.PATH.0.38110.37182" />
+			</ActorMesh>
+			<ActorMesh name="SU_38110_37254_1" label="4x4Windo" layer="Layer0">
+				<mesh name="M9187_1"/>
+				<Transform tx="1733.550049" ty="-989.806274" tz="101.599998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex64="00000000000000800000000000000000000000609EA0E6BF000000609EA0E63F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.3xLPNZ3NH22vz74nDrXVsD" />
+				<tag value="SU.PATH.0.38110.37254" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.3xLPNZ3NH22vz74nDrXVsD" />
+				<tag value="SU.PATH.0.38110.37254" />
+			</ActorMesh>
+			<ActorMesh name="SU_38110_37042_1" label="4x4Windo" layer="Layer0">
+				<mesh name="M9187_1"/>
+				<Transform tx="1356.359985" ty="-372.109985" tz="101.599998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.3xLPNZ3NH22vz74nDrXVsD" />
+				<tag value="SU.PATH.0.38110.37042" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.3xLPNZ3NH22vz74nDrXVsD" />
+				<tag value="SU.PATH.0.38110.37042" />
+			</ActorMesh>
+			<ActorMesh name="SU_38110_37324_1" label="4x4Windo" layer="Layer0">
+				<mesh name="M9187_1"/>
+				<Transform tx="1600.199951" ty="-1116.329956" tz="101.599998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.3xLPNZ3NH22vz74nDrXVsD" />
+				<tag value="SU.PATH.0.38110.37324" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.3xLPNZ3NH22vz74nDrXVsD" />
+				<tag value="SU.PATH.0.38110.37324" />
+			</ActorMesh>
+			<ActorMesh name="SU_38110_36972_1" label="4x4Windo" layer="Layer0">
+				<mesh name="M9187_1"/>
+				<Transform tx="1478.280029" ty="-372.109985" tz="101.599998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.3xLPNZ3NH22vz74nDrXVsD" />
+				<tag value="SU.PATH.0.38110.36972" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.3xLPNZ3NH22vz74nDrXVsD" />
+				<tag value="SU.PATH.0.38110.36972" />
+			</ActorMesh>
+			<ActorMesh name="SU_38110_37253_1" label="4x4Windo" layer="Layer0">
+				<mesh name="M9187_1"/>
+				<Transform tx="1733.550049" ty="-867.88623" tz="101.599998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex64="00000000000000800000000000000000000000609EA0E6BF000000609EA0E63F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.3xLPNZ3NH22vz74nDrXVsD" />
+				<tag value="SU.PATH.0.38110.37253" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.3xLPNZ3NH22vz74nDrXVsD" />
+				<tag value="SU.PATH.0.38110.37253" />
+			</ActorMesh>
+			<ActorMesh name="SU_38110_37112_1" label="4x4Windo" layer="Layer0">
+				<mesh name="M9187_1"/>
+				<Transform tx="1733.550049" ty="-381.0" tz="101.599998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex64="00000000000000800000000000000000000000609EA0E6BF000000609EA0E63F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.3xLPNZ3NH22vz74nDrXVsD" />
+				<tag value="SU.PATH.0.38110.37112" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.3xLPNZ3NH22vz74nDrXVsD" />
+				<tag value="SU.PATH.0.38110.37112" />
+			</ActorMesh>
+			<ActorMesh name="SU_38110_36901_1" label="4x4Windo" layer="Layer0">
+				<mesh name="M9187_1"/>
+				<Transform tx="1600.199951" ty="-372.109985" tz="101.599998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.3xLPNZ3NH22vz74nDrXVsD" />
+				<tag value="SU.PATH.0.38110.36901" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.3xLPNZ3NH22vz74nDrXVsD" />
+				<tag value="SU.PATH.0.38110.36901" />
+			</ActorMesh>
+			<ActorMesh name="SU_38110_37501_1" label="GlassDoor" layer="Layer0">
+				<mesh name="M92c5_1"/>
+				<Transform tx="365.76001" ty="-1116.329956" tz="10.16" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.11gxIe62P3NwMDRVBxIryp" />
+				<tag value="SU.PATH.0.38110.37501" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.11gxIe62P3NwMDRVBxIryp" />
+				<tag value="SU.PATH.0.38110.37501" />
+			</ActorMesh>
+			<ActorMesh name="SU_38110_37572_1" label="GlassDoor" layer="Layer0">
+				<mesh name="M92c5_1"/>
+				<Transform tx="274.320007" ty="-1116.329956" tz="10.16" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.11gxIe62P3NwMDRVBxIryp" />
+				<tag value="SU.PATH.0.38110.37572" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.11gxIe62P3NwMDRVBxIryp" />
+				<tag value="SU.PATH.0.38110.37572" />
+			</ActorMesh>
+			<ActorMesh name="SU_38110_37926_1" label="UpperWindow" layer="Layer0">
+				<mesh name="M9427_1"/>
+				<Transform tx="274.320007" ty="-1116.329956" tz="228.600006" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.2Fz1O0MQv5GRLdkSQOdIEF" />
+				<tag value="SU.PATH.0.38110.37926" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.2Fz1O0MQv5GRLdkSQOdIEF" />
+				<tag value="SU.PATH.0.38110.37926" />
+			</ActorMesh>
+			<Actor name="SU_38110_36733" label="FrontWindow" layer="Layer0">
+				<Transform tx="213.360001" ty="-3.81" tz="10.16" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.3QEfvxFLz9rxkYBOku9bbF" />
+				<tag value="SU.PATH.0.38110.36733" />
+				<children visible="true">
+					<ActorMesh name="SU_38110_36733_1" label="FrontWindow" layer="Layer0">
+						<mesh name="M8f7e_1"/>
+						<material id="0" name="0135_DarkGray-Ib4ca666c4347886458857469a845a29e"/>
+						<Transform tx="213.360001" ty="-3.81" tz="10.16" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.3QEfvxFLz9rxkYBOku9bbF" />
+						<tag value="SU.PATH.0.38110.36733" />
+					</ActorMesh>
+					<ActorMesh name="SU_38110_36733_36406_1" label="Group_11" layer="Layer0">
+						<mesh name="M8e37_1"/>
+						<Transform tx="213.360001" ty="-7.62" tz="10.16" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="SU.DEPTH.4" />
+						<tag value="SU.GUID.0XV8tgd4PF_egYKqKUwaph" />
+						<tag value="SU.PATH.0.38110.36733.36406" />
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.0XV8tgd4PF_egYKqKUwaph" />
+						<tag value="SU.PATH.0.38110.36733.36406" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<ActorMesh name="SU_38110_36384_1" label="Group_9" layer="Layer0">
+				<mesh name="M8e21_1"/>
+				<material id="0" name="Translucent_Glass_Blue-I57f3f5d9abd81f160c0ccf164a1c1c9e"/>
+				<Transform tx="800.133972" ty="-373.380005" tz="10.16" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.0FftSIKlP7x9K49tCDs0rd" />
+				<tag value="SU.PATH.0.38110.36384" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.0FftSIKlP7x9K49tCDs0rd" />
+				<tag value="SU.PATH.0.38110.36384" />
+			</ActorMesh>
+			<ActorMesh name="SU_38110_36373_1" label="Group_8" layer="Layer0">
+				<mesh name="M8e16_1"/>
+				<Transform tx="690.91394" ty="-373.380005" tz="236.220001" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.1toJAJ6v9FKw9W7SwwoC2I" />
+				<tag value="SU.PATH.0.38110.36373" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.1toJAJ6v9FKw9W7SwwoC2I" />
+				<tag value="SU.PATH.0.38110.36373" />
+			</ActorMesh>
+			<Actor name="SU_38110_35998" label="FrontDoow" layer="Layer0">
+				<Transform tx="690.91394" ty="-369.570007" tz="10.16" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.2xM1k_O1PAtARzRdGF2bh9" />
+				<tag value="SU.PATH.0.38110.35998" />
+				<children visible="true">
+					<ActorMesh name="SU_38110_35998_1" label="FrontDoow" layer="Layer0">
+						<mesh name="M8c9f_1"/>
+						<material id="0" name="0024_OrangeRed-I6a5a5a07c75ce63206bbcd479054470b"/>
+						<Transform tx="690.91394" ty="-369.570007" tz="10.16" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.2xM1k_O1PAtARzRdGF2bh9" />
+						<tag value="SU.PATH.0.38110.35998" />
+					</ActorMesh>
+					<ActorMesh name="SU_38110_35998_36395_1" label="Group_10" layer="Layer0">
+						<mesh name="M8e2c_1"/>
+						<material id="0" name="Translucent_Glass_Blue-I57f3f5d9abd81f160c0ccf164a1c1c9e"/>
+						<Transform tx="754.559448" ty="-373.380005" tz="48.670021" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="SU.DEPTH.4" />
+						<tag value="SU.GUID.2Tz07LHmb8ZeXOrWd7h7On" />
+						<tag value="SU.PATH.0.38110.35998.36395" />
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.2Tz07LHmb8ZeXOrWd7h7On" />
+						<tag value="SU.PATH.0.38110.35998.36395" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="SU_38110_36336" label="EntryWindow" layer="Layer0">
+				<Transform tx="690.91394" ty="-369.570007" tz="10.16" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.13QUhl9b963PfL02ZTAJfs" />
+				<tag value="SU.PATH.0.38110.36336" />
+				<children visible="true">
+					<ActorMesh name="SU_38110_36336_1" label="EntryWindow" layer="Layer0">
+						<mesh name="M8df1_1"/>
+						<material id="0" name="0135_DarkGray-Ib4ca666c4347886458857469a845a29e"/>
+						<Transform tx="690.91394" ty="-369.570007" tz="10.16" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.13QUhl9b963PfL02ZTAJfs" />
+						<tag value="SU.PATH.0.38110.36336" />
+					</ActorMesh>
+					<ActorMesh name="SU_38110_36336_36361_1" label="Group_7" layer="Layer0">
+						<mesh name="M8e0a_1"/>
+						<material id="0" name="Translucent_Glass_Blue-I57f3f5d9abd81f160c0ccf164a1c1c9e"/>
+						<Transform tx="690.91394" ty="-373.380005" tz="314.959991" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="SU.DEPTH.4" />
+						<tag value="SU.GUID.3letOIc1L8SgziUeagu20Q" />
+						<tag value="SU.PATH.0.38110.36336.36361" />
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.3letOIc1L8SgziUeagu20Q" />
+						<tag value="SU.PATH.0.38110.36336.36361" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<ActorMesh name="SU_38110_34216_1" label="Foundation" layer="Layer0">
+				<mesh name="M85a9_1"/>
+				<material id="0" name="Polished_Concrete_New-I33754b990aa28afb2e6175c4dc1c25ed"/>
+				<Transform tx="15.24" ty="-15.24" tz="-5.08" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.37NXVYH5T99eVM7bImw1nK" />
+				<tag value="SU.PATH.0.38110.34216" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.37NXVYH5T99eVM7bImw1nK" />
+				<tag value="SU.PATH.0.38110.34216" />
+			</ActorMesh>
+			<ActorMesh name="SU_38110_34350_1" label="Fireplace" layer="Layer0">
+				<mesh name="M862f_1"/>
+				<material id="0" name="Stone_Flagstone_Ashlar-Iafc77e8db7bee605be1da578434135d2"/>
+				<Transform tx="975.393982" ty="-289.559998" tz="10.16" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.049$hxdl5AyfUacN$9u_Ql" />
+				<tag value="SU.PATH.0.38110.34350" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.049$hxdl5AyfUacN$9u_Ql" />
+				<tag value="SU.PATH.0.38110.34350" />
+			</ActorMesh>
+			<ActorMesh name="SU_38110_35465_1" label="OuterWalls" layer="Layer0">
+				<mesh name="M8a8a_1"/>
+				<Transform tx="0.0" ty="0.0" tz="10.16" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.0TSUnPqAX12vryCFWZ0r21" />
+				<tag value="SU.PATH.0.38110.35465" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.0TSUnPqAX12vryCFWZ0r21" />
+				<tag value="SU.PATH.0.38110.35465" />
+			</ActorMesh>
+			<ActorMesh name="SU_38110_34327_1" label="Roof" layer="Layer0">
+				<mesh name="M8618_1"/>
+				<Transform tx="-30.588419" ty="25.4" tz="274.86322" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.3E9qOxI$n8Wu9PYkVblP5W" />
+				<tag value="SU.PATH.0.38110.34327" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.3E9qOxI$n8Wu9PYkVblP5W" />
+				<tag value="SU.PATH.0.38110.34327" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="SU_38463" label="Fence" layer="Layer0">
+		<Transform tx="1211.137329" ty="-18.319563" tz="15.24" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.2XC5jloqv5ze8fSIasU0kq" />
+		<tag value="SU.PATH.0.38463" />
+		<children visible="true">
+			<ActorMesh name="SU_38463_38342_1" label="4x4x48" layer="Layer0">
+				<mesh name="M9621_1"/>
+				<material id="0" name="Wood_Veneer_01-I54806d255e87528df2ba9898e4957c4d"/>
+				<Transform tx="1211.137329" ty="-18.319563" tz="15.24" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.21IrVAtAP1mu8Cs8BnwaTC" />
+				<tag value="SU.PATH.0.38463.38342" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.21IrVAtAP1mu8Cs8BnwaTC" />
+				<tag value="SU.PATH.0.38463.38342" />
+			</ActorMesh>
+			<ActorMesh name="SU_38463_38461_1" label="4x4x48" layer="Layer0">
+				<mesh name="M9621_1"/>
+				<material id="0" name="Wood_Veneer_01-I54806d255e87528df2ba9898e4957c4d"/>
+				<Transform tx="1454.977417" ty="-18.319563" tz="15.24" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.21IrVAtAP1mu8Cs8BnwaTC" />
+				<tag value="SU.PATH.0.38463.38461" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.21IrVAtAP1mu8Cs8BnwaTC" />
+				<tag value="SU.PATH.0.38463.38461" />
+			</ActorMesh>
+			<ActorMesh name="SU_38463_38462_1" label="4x4x48" layer="Layer0">
+				<mesh name="M9621_1"/>
+				<material id="0" name="Wood_Veneer_01-I54806d255e87528df2ba9898e4957c4d"/>
+				<Transform tx="1698.817383" ty="-18.319563" tz="15.24" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.21IrVAtAP1mu8Cs8BnwaTC" />
+				<tag value="SU.PATH.0.38463.38462" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.21IrVAtAP1mu8Cs8BnwaTC" />
+				<tag value="SU.PATH.0.38463.38462" />
+			</ActorMesh>
+			<Actor name="SU_38463_38344" label="Group_14" layer="Layer0">
+				<Transform tx="1212.407349" ty="-18.954563" tz="40.639999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.3C7d5qIjH5VRoBSIZofSlf" />
+				<tag value="SU.PATH.0.38463.38344" />
+				<children visible="true">
+					<ActorMesh name="SU_38463_38344_38270_1" label="1x4x20" layer="Layer0">
+						<mesh name="M9559_1"/>
+						<Transform tx="1212.407349" ty="-18.954563" tz="116.839996" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="SU.DEPTH.4" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38270" />
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38270" />
+					</ActorMesh>
+					<ActorMesh name="SU_38463_38344_38266_1" label="1x4x20" layer="Layer0">
+						<mesh name="M9559_1"/>
+						<Transform tx="1212.407349" ty="-18.954563" tz="86.360001" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="SU.DEPTH.4" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38266" />
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38266" />
+					</ActorMesh>
+					<ActorMesh name="SU_38463_38344_38272_1" label="1x4x20" layer="Layer0">
+						<mesh name="M9559_1"/>
+						<Transform tx="1212.407349" ty="-18.954563" tz="132.080002" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="SU.DEPTH.4" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38272" />
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38272" />
+					</ActorMesh>
+					<ActorMesh name="SU_38463_38344_38267_1" label="1x4x20" layer="Layer0">
+						<mesh name="M9559_1"/>
+						<Transform tx="1212.407349" ty="-18.954563" tz="93.980003" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="SU.DEPTH.4" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38267" />
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38267" />
+					</ActorMesh>
+					<ActorMesh name="SU_38463_38344_38269_1" label="1x4x20" layer="Layer0">
+						<mesh name="M9559_1"/>
+						<Transform tx="1212.407349" ty="-18.954563" tz="109.220001" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="SU.DEPTH.4" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38269" />
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38269" />
+					</ActorMesh>
+					<ActorMesh name="SU_38463_38344_38268_1" label="1x4x20" layer="Layer0">
+						<mesh name="M9559_1"/>
+						<Transform tx="1212.407349" ty="-18.954563" tz="101.599998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="SU.DEPTH.4" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38268" />
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38268" />
+					</ActorMesh>
+					<ActorMesh name="SU_38463_38344_38271_1" label="1x4x20" layer="Layer0">
+						<mesh name="M9559_1"/>
+						<Transform tx="1212.407349" ty="-18.954563" tz="124.459999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="SU.DEPTH.4" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38271" />
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38271" />
+					</ActorMesh>
+					<ActorMesh name="SU_38463_38344_38263_1" label="1x4x20" layer="Layer0">
+						<mesh name="M9559_1"/>
+						<Transform tx="1212.407349" ty="-18.954563" tz="63.5" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="SU.DEPTH.4" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38263" />
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38263" />
+					</ActorMesh>
+					<ActorMesh name="SU_38463_38344_38173_1" label="1x4x20" layer="Layer0">
+						<mesh name="M9559_1"/>
+						<Transform tx="1212.407349" ty="-18.954563" tz="40.639999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="SU.DEPTH.4" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38173" />
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38173" />
+					</ActorMesh>
+					<ActorMesh name="SU_38463_38344_38264_1" label="1x4x20" layer="Layer0">
+						<mesh name="M9559_1"/>
+						<Transform tx="1212.407349" ty="-18.954563" tz="71.120003" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="SU.DEPTH.4" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38264" />
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38264" />
+					</ActorMesh>
+					<ActorMesh name="SU_38463_38344_38262_1" label="1x4x20" layer="Layer0">
+						<mesh name="M9559_1"/>
+						<Transform tx="1212.407349" ty="-18.954563" tz="55.880001" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="SU.DEPTH.4" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38262" />
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38262" />
+					</ActorMesh>
+					<ActorMesh name="SU_38463_38344_38265_1" label="1x4x20" layer="Layer0">
+						<mesh name="M9559_1"/>
+						<Transform tx="1212.407349" ty="-18.954563" tz="78.739998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="SU.DEPTH.4" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38265" />
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38265" />
+					</ActorMesh>
+					<ActorMesh name="SU_38463_38344_38261_1" label="1x4x20" layer="Layer0">
+						<mesh name="M9559_1"/>
+						<Transform tx="1212.407349" ty="-18.954563" tz="48.259998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="SU.DEPTH.4" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38261" />
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.1vGe$Bo_1A8B8TQyQ4xxUW" />
+						<tag value="SU.PATH.0.38463.38344.38261" />
+					</ActorMesh>
+				</children>
+			</Actor>
+		</children>
+	</Actor>
+	<ActorMesh name="SU_38474_1" label="Ground" layer="Layer0">
+		<mesh name="M964b_1"/>
+		<material id="0" name="Grass_Dark_Green-I9cfc5df4c700568a00b193b0644ad022"/>
+		<Transform tx="-235.089996" ty="971.376282" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="SU.DEPTH.2" />
+		<tag value="SU.GUID.1paaluC_DBtwOh0Bx5833W" />
+		<tag value="SU.PATH.0.38474" />
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.1paaluC_DBtwOh0Bx5833W" />
+		<tag value="SU.PATH.0.38474" />
+	</ActorMesh>
+	<ActorMesh name="SU_38886_1" label="Planter01" layer="Layer0">
+		<mesh name="M981e_1"/>
+		<Transform tx="0.0" ty="106.521248" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="SU.DEPTH.2" />
+		<tag value="SU.GUID.387cv0b_9E5wZ5PByg_UKY" />
+		<tag value="SU.PATH.0.38886" />
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.387cv0b_9E5wZ5PByg_UKY" />
+		<tag value="SU.PATH.0.38886" />
+	</ActorMesh>
+	<ActorMesh name="SU_38941_1" label="Planter02" layer="Layer0">
+		<mesh name="M97e8_1"/>
+		<Transform tx="909.796265" ty="106.521248" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="SU.DEPTH.2" />
+		<tag value="SU.GUID.2cMsL$8C12K9f8UBSdoK9d" />
+		<tag value="SU.PATH.0.38941" />
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.2cMsL$8C12K9f8UBSdoK9d" />
+		<tag value="SU.PATH.0.38941" />
+	</ActorMesh>
+	<Actor name="SU_38994" label="Pavers" layer="Layer0">
+		<Transform tx="664.582458" ty="916.007874" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0AogdGHVX5suQN5FAPoNb1" />
+		<tag value="SU.PATH.0.38994" />
+		<children visible="true">
+			<ActorMesh name="SU_38994_38649_1" label="2x4_Paver" layer="Layer0">
+				<mesh name="M9738_1"/>
+				<Transform tx="710.302429" ty="154.007858" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.2RmbIyfpf8y97TDCoYe38t" />
+				<tag value="SU.PATH.0.38994.38649" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.2RmbIyfpf8y97TDCoYe38t" />
+				<tag value="SU.PATH.0.38994.38649" />
+			</ActorMesh>
+			<ActorMesh name="SU_38994_38561_1" label="2x4_Paver" layer="Layer0">
+				<mesh name="M9738_1"/>
+				<Transform tx="664.582458" ty="77.807854" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.2RmbIyfpf8y97TDCoYe38t" />
+				<tag value="SU.PATH.0.38994.38561" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.2RmbIyfpf8y97TDCoYe38t" />
+				<tag value="SU.PATH.0.38994.38561" />
+			</ActorMesh>
+			<ActorMesh name="SU_38994_38750_1" label="2x4_Paver" layer="Layer0">
+				<mesh name="M9738_1"/>
+				<Transform tx="710.302429" ty="916.007874" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.2RmbIyfpf8y97TDCoYe38t" />
+				<tag value="SU.PATH.0.38994.38750" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.2RmbIyfpf8y97TDCoYe38t" />
+				<tag value="SU.PATH.0.38994.38750" />
+			</ActorMesh>
+			<ActorMesh name="SU_38994_38748_1" label="2x4_Paver" layer="Layer0">
+				<mesh name="M9738_1"/>
+				<Transform tx="710.302429" ty="763.607849" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.2RmbIyfpf8y97TDCoYe38t" />
+				<tag value="SU.PATH.0.38994.38748" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.2RmbIyfpf8y97TDCoYe38t" />
+				<tag value="SU.PATH.0.38994.38748" />
+			</ActorMesh>
+			<ActorMesh name="SU_38994_38747_1" label="2x4_Paver" layer="Layer0">
+				<mesh name="M9738_1"/>
+				<Transform tx="664.582458" ty="687.407837" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.2RmbIyfpf8y97TDCoYe38t" />
+				<tag value="SU.PATH.0.38994.38747" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.2RmbIyfpf8y97TDCoYe38t" />
+				<tag value="SU.PATH.0.38994.38747" />
+			</ActorMesh>
+			<ActorMesh name="SU_38994_38742_1" label="2x4_Paver" layer="Layer0">
+				<mesh name="M9738_1"/>
+				<Transform tx="710.302429" ty="306.407867" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.2RmbIyfpf8y97TDCoYe38t" />
+				<tag value="SU.PATH.0.38994.38742" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.2RmbIyfpf8y97TDCoYe38t" />
+				<tag value="SU.PATH.0.38994.38742" />
+			</ActorMesh>
+			<ActorMesh name="SU_38994_38749_1" label="2x4_Paver" layer="Layer0">
+				<mesh name="M9738_1"/>
+				<Transform tx="664.582458" ty="839.807861" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.2RmbIyfpf8y97TDCoYe38t" />
+				<tag value="SU.PATH.0.38994.38749" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.2RmbIyfpf8y97TDCoYe38t" />
+				<tag value="SU.PATH.0.38994.38749" />
+			</ActorMesh>
+			<ActorMesh name="SU_38994_38741_1" label="2x4_Paver" layer="Layer0">
+				<mesh name="M9738_1"/>
+				<Transform tx="664.582458" ty="230.207855" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.2RmbIyfpf8y97TDCoYe38t" />
+				<tag value="SU.PATH.0.38994.38741" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.2RmbIyfpf8y97TDCoYe38t" />
+				<tag value="SU.PATH.0.38994.38741" />
+			</ActorMesh>
+			<ActorMesh name="SU_38994_38745_1" label="2x4_Paver" layer="Layer0">
+				<mesh name="M9738_1"/>
+				<Transform tx="664.582458" ty="535.007874" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.2RmbIyfpf8y97TDCoYe38t" />
+				<tag value="SU.PATH.0.38994.38745" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.2RmbIyfpf8y97TDCoYe38t" />
+				<tag value="SU.PATH.0.38994.38745" />
+			</ActorMesh>
+			<ActorMesh name="SU_38994_38744_1" label="2x4_Paver" layer="Layer0">
+				<mesh name="M9738_1"/>
+				<Transform tx="710.302429" ty="458.807861" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.2RmbIyfpf8y97TDCoYe38t" />
+				<tag value="SU.PATH.0.38994.38744" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.2RmbIyfpf8y97TDCoYe38t" />
+				<tag value="SU.PATH.0.38994.38744" />
+			</ActorMesh>
+			<ActorMesh name="SU_38994_38743_1" label="2x4_Paver" layer="Layer0">
+				<mesh name="M9738_1"/>
+				<Transform tx="664.582458" ty="382.607849" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.2RmbIyfpf8y97TDCoYe38t" />
+				<tag value="SU.PATH.0.38994.38743" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.2RmbIyfpf8y97TDCoYe38t" />
+				<tag value="SU.PATH.0.38994.38743" />
+			</ActorMesh>
+			<ActorMesh name="SU_38994_38746_1" label="2x4_Paver" layer="Layer0">
+				<mesh name="M9738_1"/>
+				<Transform tx="710.302429" ty="611.207825" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="SU.DEPTH.3" />
+				<tag value="SU.GUID.2RmbIyfpf8y97TDCoYe38t" />
+				<tag value="SU.PATH.0.38994.38746" />
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.2RmbIyfpf8y97TDCoYe38t" />
+				<tag value="SU.PATH.0.38994.38746" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Texture name="Wood_Veneer_01" label="Wood_Veneer_01" texturemode="5" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="1" file="RanchHouse_Assets/Wood_Veneer_01.jpg">
+		<Hash value="1658bed63659ed90e003a169bb6efea8"/>
+	</Texture>
+	<Texture name="Polished_Concrete_New" label="Polished_Concrete_New" texturemode="5" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="1" file="RanchHouse_Assets/Polished_Concrete_New.jpg">
+		<Hash value="f4c104270f762080ad64caa4cecb081b"/>
+	</Texture>
+	<Texture name="Roofing_Shingles_Asphalt" label="Roofing_Shingles_Asphalt" texturemode="5" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="1" file="RanchHouse_Assets/Roofing_Shingles_Asphalt.jpg">
+		<Hash value="afa7d41bde4681e65247ac0af4d5b35e"/>
+	</Texture>
+	<Texture name="Rough_Square_Concrete_Block" label="Rough_Square_Concrete_Block" texturemode="5" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="1" file="RanchHouse_Assets/Rough_Square_Concrete_Block.jpg">
+		<Hash value="6cacf2f9d61838f2f762b75deb60deb5"/>
+	</Texture>
+	<Texture name="Modern_Siding" label="Modern_Siding" texturemode="5" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="1" file="RanchHouse_Assets/Modern_Siding.jpg">
+		<Hash value="0db3db840c96681a2cf2d4d6b6e3bd4f"/>
+	</Texture>
+	<Texture name="Concrete_Block_8x8_Gray" label="Concrete_Block_8x8_Gray" texturemode="5" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="1" file="RanchHouse_Assets/Concrete_Block_8x8_Gray.jpg">
+		<Hash value="8edcc2c2f041f446629e3fe0c7c27283"/>
+	</Texture>
+	<Texture name="Water_Sparkling" label="Water_Sparkling" texturemode="5" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="1" file="RanchHouse_Assets/Water_Sparkling.jpg">
+		<Hash value="1859eb9dedd7e4d9135d6eeb3724d2fb"/>
+	</Texture>
+	<Texture name="Stone_Flagstone_Ashlar" label="Stone_Flagstone_Ashlar" texturemode="5" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="1" file="RanchHouse_Assets/Stone_Flagstone_Ashlar.jpg">
+		<Hash value="9b64f8505475066545a4c62421264982"/>
+	</Texture>
+	<Texture name="Grass_Dark_Green" label="Grass_Dark_Green" texturemode="5" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="1" file="RanchHouse_Assets/Grass_Dark_Green.jpg">
+		<Hash value="b5d752ab9ef0faf28e067b4b316d0641"/>
+	</Texture>
+	<UEPbrMaterial name="Wood_Veneer_01-L54806d255e87528df2ba9898e4957c4d" label="Wood_Veneer_01">
+		<Expressions>
+			<Texture Name="Texture" PathName="Wood_Veneer_01">
+			</Texture>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Wood_Veneer_01-I54806d255e87528df2ba9898e4957c4d" label="Wood_Veneer_01">
+		<Expressions>
+			<Texture Name="Texture" PathName="Wood_Veneer_01">
+				<Input Name="Coordinates" expression="1" OutputIndex="0"/>
+			</Texture>
+			<FunctionCall Function="/DatasmithContent/Materials/UVEdit.UVEdit">
+				<Input Name="0" expression="3" OutputIndex="0"/>
+				<Input Name="2" expression="2" OutputIndex="0"/>
+			</FunctionCall>
+			<Color Name="UV_Tiling" constant="(R=0.013889,G=0.013889,B=0.000000,A=1.000000)"/>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="0135_DarkGray-Lb4ca666c4347886458857469a845a29e" label="0135_DarkGray">
+		<Expressions>
+			<Color Name="Base_Color" constant="(R=0.082283,G=0.082283,B=0.082283,A=1.000000)"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="0135_DarkGray-Ib4ca666c4347886458857469a845a29e" label="0135_DarkGray">
+		<Expressions>
+			<Color Name="Base_Color" constant="(R=0.082283,G=0.082283,B=0.082283,A=1.000000)"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Translucent_Glass_Blue-L57f3f5d9abd81f160c0ccf164a1c1c9e" label="Translucent_Glass_Blue">
+		<Expressions>
+			<Color Name="Base_Color" constant="(R=0.127438,G=0.300544,B=0.846873,A=0.501961)"/>
+			<Scalar Name="Opacity" constant="0.501961"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<Input Name="Opacity" expression="1" OutputIndex="0"/>
+		<Blendmode value="2.0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Translucent_Glass_Blue-I57f3f5d9abd81f160c0ccf164a1c1c9e" label="Translucent_Glass_Blue">
+		<Expressions>
+			<Color Name="Base_Color" constant="(R=0.127438,G=0.300544,B=0.846873,A=0.501961)"/>
+			<Scalar Name="Opacity" constant="0.501961"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<Input Name="Opacity" expression="1" OutputIndex="0"/>
+		<Blendmode value="2.0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Polished_Concrete_New-L33754b990aa28afb2e6175c4dc1c25ed" label="Polished_Concrete_New">
+		<Expressions>
+			<Texture Name="Texture" PathName="Polished_Concrete_New">
+			</Texture>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Polished_Concrete_New-I33754b990aa28afb2e6175c4dc1c25ed" label="Polished_Concrete_New">
+		<Expressions>
+			<Texture Name="Texture" PathName="Polished_Concrete_New">
+				<Input Name="Coordinates" expression="1" OutputIndex="0"/>
+			</Texture>
+			<FunctionCall Function="/DatasmithContent/Materials/UVEdit.UVEdit">
+				<Input Name="0" expression="3" OutputIndex="0"/>
+				<Input Name="2" expression="2" OutputIndex="0"/>
+			</FunctionCall>
+			<Color Name="UV_Tiling" constant="(R=0.016667,G=0.016667,B=0.000000,A=1.000000)"/>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Roofing_Shingles_Asphalt-L21ca36658c90b8ec4ddd9efed0c814f5" label="Roofing_Shingles_Asphalt">
+		<Expressions>
+			<Texture Name="Texture" PathName="Roofing_Shingles_Asphalt">
+			</Texture>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Rough_Square_Concrete_Block-Lb9c9840c76da9305a6ea5dfae7cac1a0" label="Rough_Square_Concrete_Block">
+		<Expressions>
+			<Texture Name="Texture" PathName="Rough_Square_Concrete_Block">
+			</Texture>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Modern_Siding-Le4c9b57830a378415a68f5bca1c35d69" label="Modern_Siding">
+		<Expressions>
+			<Texture Name="Texture" PathName="Modern_Siding">
+			</Texture>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="0024_OrangeRed-L6a5a5a07c75ce63206bbcd479054470b" label="0024_OrangeRed">
+		<Expressions>
+			<Color Name="Base_Color" constant="(R=1.000000,G=0.059511,B=0.000000,A=1.000000)"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="0024_OrangeRed-I6a5a5a07c75ce63206bbcd479054470b" label="0024_OrangeRed">
+		<Expressions>
+			<Color Name="Base_Color" constant="(R=1.000000,G=0.059511,B=0.000000,A=1.000000)"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Concrete_Block_8x8_Gray-L763bde77fea8aa51fbac311be4287a17" label="Concrete_Block_8x8_Gray">
+		<Expressions>
+			<Texture Name="Texture" PathName="Concrete_Block_8x8_Gray">
+			</Texture>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Water_Sparkling-Lfe62305f2d33dfe2b9429310802e0600" label="Water_Sparkling">
+		<Expressions>
+			<Texture Name="Texture" PathName="Water_Sparkling">
+			</Texture>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Stone_Flagstone_Ashlar-Iafc77e8db7bee605be1da578434135d2" label="Stone_Flagstone_Ashlar">
+		<Expressions>
+			<Texture Name="Texture" PathName="Stone_Flagstone_Ashlar">
+				<Input Name="Coordinates" expression="1" OutputIndex="0"/>
+			</Texture>
+			<FunctionCall Function="/DatasmithContent/Materials/UVEdit.UVEdit">
+				<Input Name="0" expression="3" OutputIndex="0"/>
+				<Input Name="2" expression="2" OutputIndex="0"/>
+			</FunctionCall>
+			<Color Name="UV_Tiling" constant="(R=0.020833,G=0.020833,B=0.000000,A=1.000000)"/>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Grass_Dark_Green-I9cfc5df4c700568a00b193b0644ad022" label="Grass_Dark_Green">
+		<Expressions>
+			<Texture Name="Texture" PathName="Grass_Dark_Green">
+				<Input Name="Coordinates" expression="1" OutputIndex="0"/>
+			</Texture>
+			<FunctionCall Function="/DatasmithContent/Materials/UVEdit.UVEdit">
+				<Input Name="0" expression="3" OutputIndex="0"/>
+				<Input Name="2" expression="2" OutputIndex="0"/>
+			</FunctionCall>
+			<Color Name="UV_Tiling" constant="(R=0.027759,G=0.025197,B=0.000000,A=1.000000)"/>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Default">
+		<Expressions>
+			<Color Name="Base_Color" constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<MetaData name="SU_38110_DATA" reference="Actor.SU_38110">
+		<KeyValueProperty name="Instance" type="String" val="RanchHouse"/>
+		<KeyValueProperty name="Definition" type="String" val="Group#13"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="94df"/>
+	</MetaData>
+	<MetaData name="SU_38110_37182_1_DATA" reference="Actor.SU_38110_37182_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="4x4Windo"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9187"/>
+	</MetaData>
+	<MetaData name="SU_38110_37254_1_DATA" reference="Actor.SU_38110_37254_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="4x4Windo"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9187"/>
+	</MetaData>
+	<MetaData name="SU_38110_37042_1_DATA" reference="Actor.SU_38110_37042_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="4x4Windo"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9187"/>
+	</MetaData>
+	<MetaData name="SU_38110_37324_1_DATA" reference="Actor.SU_38110_37324_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="4x4Windo"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9187"/>
+	</MetaData>
+	<MetaData name="SU_38110_36972_1_DATA" reference="Actor.SU_38110_36972_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="4x4Windo"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9187"/>
+	</MetaData>
+	<MetaData name="SU_38110_37253_1_DATA" reference="Actor.SU_38110_37253_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="4x4Windo"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9187"/>
+	</MetaData>
+	<MetaData name="SU_38110_37112_1_DATA" reference="Actor.SU_38110_37112_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="4x4Windo"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9187"/>
+	</MetaData>
+	<MetaData name="SU_38110_36901_1_DATA" reference="Actor.SU_38110_36901_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="4x4Windo"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9187"/>
+	</MetaData>
+	<MetaData name="SU_38110_37501_1_DATA" reference="Actor.SU_38110_37501_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="GlassDoor"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="92c5"/>
+	</MetaData>
+	<MetaData name="SU_38110_37572_1_DATA" reference="Actor.SU_38110_37572_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="GlassDoor"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="92c5"/>
+	</MetaData>
+	<MetaData name="SU_38110_37926_1_DATA" reference="Actor.SU_38110_37926_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="UpperWindow"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9427"/>
+	</MetaData>
+	<MetaData name="SU_38110_36733_DATA" reference="Actor.SU_38110_36733">
+		<KeyValueProperty name="Instance" type="String" val="FrontWindow"/>
+		<KeyValueProperty name="Definition" type="String" val="Group#12"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="8f7e"/>
+	</MetaData>
+	<MetaData name="SU_38110_36733_36406_1_DATA" reference="Actor.SU_38110_36733_36406_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="Group#11"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="8e37"/>
+	</MetaData>
+	<MetaData name="SU_38110_36384_1_DATA" reference="Actor.SU_38110_36384_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="Group#9"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="8e21"/>
+	</MetaData>
+	<MetaData name="SU_38110_36373_1_DATA" reference="Actor.SU_38110_36373_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="Group#8"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="8e16"/>
+	</MetaData>
+	<MetaData name="SU_38110_35998_DATA" reference="Actor.SU_38110_35998">
+		<KeyValueProperty name="Instance" type="String" val="FrontDoow"/>
+		<KeyValueProperty name="Definition" type="String" val="Group#5"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="8c9f"/>
+	</MetaData>
+	<MetaData name="SU_38110_35998_36395_1_DATA" reference="Actor.SU_38110_35998_36395_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="Group#10"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="8e2c"/>
+	</MetaData>
+	<MetaData name="SU_38110_36336_DATA" reference="Actor.SU_38110_36336">
+		<KeyValueProperty name="Instance" type="String" val="EntryWindow"/>
+		<KeyValueProperty name="Definition" type="String" val="Group#6"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="8df1"/>
+	</MetaData>
+	<MetaData name="SU_38110_36336_36361_1_DATA" reference="Actor.SU_38110_36336_36361_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="Group#7"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="8e0a"/>
+	</MetaData>
+	<MetaData name="SU_38110_34216_1_DATA" reference="Actor.SU_38110_34216_1">
+		<KeyValueProperty name="Instance" type="String" val="Foundation"/>
+		<KeyValueProperty name="Definition" type="String" val="Group#2"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="85a9"/>
+	</MetaData>
+	<MetaData name="SU_38110_34350_1_DATA" reference="Actor.SU_38110_34350_1">
+		<KeyValueProperty name="Instance" type="String" val="Fireplace"/>
+		<KeyValueProperty name="Definition" type="String" val="Group#3"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="862f"/>
+	</MetaData>
+	<MetaData name="SU_38110_35465_1_DATA" reference="Actor.SU_38110_35465_1">
+		<KeyValueProperty name="Instance" type="String" val="OuterWalls"/>
+		<KeyValueProperty name="Definition" type="String" val="Group#4"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="8a8a"/>
+	</MetaData>
+	<MetaData name="SU_38110_34327_1_DATA" reference="Actor.SU_38110_34327_1">
+		<KeyValueProperty name="Instance" type="String" val="Roof"/>
+		<KeyValueProperty name="Definition" type="String" val="Group#1"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="8618"/>
+	</MetaData>
+	<MetaData name="SU_38463_DATA" reference="Actor.SU_38463">
+		<KeyValueProperty name="Instance" type="String" val="Fence"/>
+		<KeyValueProperty name="Definition" type="String" val="Group#15"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9640"/>
+	</MetaData>
+	<MetaData name="SU_38463_38342_1_DATA" reference="Actor.SU_38463_38342_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="4x4x48"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9621"/>
+	</MetaData>
+	<MetaData name="SU_38463_38461_1_DATA" reference="Actor.SU_38463_38461_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="4x4x48"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9621"/>
+	</MetaData>
+	<MetaData name="SU_38463_38462_1_DATA" reference="Actor.SU_38463_38462_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="4x4x48"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9621"/>
+	</MetaData>
+	<MetaData name="SU_38463_38344_DATA" reference="Actor.SU_38463_38344">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="Group#14"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="95c9"/>
+	</MetaData>
+	<MetaData name="SU_38463_38344_38270_1_DATA" reference="Actor.SU_38463_38344_38270_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="1x4x20"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9559"/>
+	</MetaData>
+	<MetaData name="SU_38463_38344_38266_1_DATA" reference="Actor.SU_38463_38344_38266_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="1x4x20"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9559"/>
+	</MetaData>
+	<MetaData name="SU_38463_38344_38272_1_DATA" reference="Actor.SU_38463_38344_38272_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="1x4x20"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9559"/>
+	</MetaData>
+	<MetaData name="SU_38463_38344_38267_1_DATA" reference="Actor.SU_38463_38344_38267_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="1x4x20"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9559"/>
+	</MetaData>
+	<MetaData name="SU_38463_38344_38269_1_DATA" reference="Actor.SU_38463_38344_38269_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="1x4x20"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9559"/>
+	</MetaData>
+	<MetaData name="SU_38463_38344_38268_1_DATA" reference="Actor.SU_38463_38344_38268_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="1x4x20"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9559"/>
+	</MetaData>
+	<MetaData name="SU_38463_38344_38271_1_DATA" reference="Actor.SU_38463_38344_38271_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="1x4x20"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9559"/>
+	</MetaData>
+	<MetaData name="SU_38463_38344_38263_1_DATA" reference="Actor.SU_38463_38344_38263_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="1x4x20"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9559"/>
+	</MetaData>
+	<MetaData name="SU_38463_38344_38173_1_DATA" reference="Actor.SU_38463_38344_38173_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="1x4x20"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9559"/>
+	</MetaData>
+	<MetaData name="SU_38463_38344_38264_1_DATA" reference="Actor.SU_38463_38344_38264_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="1x4x20"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9559"/>
+	</MetaData>
+	<MetaData name="SU_38463_38344_38262_1_DATA" reference="Actor.SU_38463_38344_38262_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="1x4x20"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9559"/>
+	</MetaData>
+	<MetaData name="SU_38463_38344_38265_1_DATA" reference="Actor.SU_38463_38344_38265_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="1x4x20"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9559"/>
+	</MetaData>
+	<MetaData name="SU_38463_38344_38261_1_DATA" reference="Actor.SU_38463_38344_38261_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="1x4x20"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9559"/>
+	</MetaData>
+	<MetaData name="SU_38474_1_DATA" reference="Actor.SU_38474_1">
+		<KeyValueProperty name="Instance" type="String" val="Ground"/>
+		<KeyValueProperty name="Definition" type="String" val="Group#16"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="964b"/>
+	</MetaData>
+	<MetaData name="SU_38886_1_DATA" reference="Actor.SU_38886_1">
+		<KeyValueProperty name="Instance" type="String" val="Planter01"/>
+		<KeyValueProperty name="Definition" type="String" val="Group#18"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="981e"/>
+	</MetaData>
+	<MetaData name="SU_38941_1_DATA" reference="Actor.SU_38941_1">
+		<KeyValueProperty name="Instance" type="String" val="Planter02"/>
+		<KeyValueProperty name="Definition" type="String" val="Group#17"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="97e8"/>
+	</MetaData>
+	<MetaData name="SU_38994_DATA" reference="Actor.SU_38994">
+		<KeyValueProperty name="Instance" type="String" val="Pavers"/>
+		<KeyValueProperty name="Definition" type="String" val="Group#19"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9853"/>
+	</MetaData>
+	<MetaData name="SU_38994_38649_1_DATA" reference="Actor.SU_38994_38649_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="2x4 Paver"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9738"/>
+	</MetaData>
+	<MetaData name="SU_38994_38561_1_DATA" reference="Actor.SU_38994_38561_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="2x4 Paver"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9738"/>
+	</MetaData>
+	<MetaData name="SU_38994_38750_1_DATA" reference="Actor.SU_38994_38750_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="2x4 Paver"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9738"/>
+	</MetaData>
+	<MetaData name="SU_38994_38748_1_DATA" reference="Actor.SU_38994_38748_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="2x4 Paver"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9738"/>
+	</MetaData>
+	<MetaData name="SU_38994_38747_1_DATA" reference="Actor.SU_38994_38747_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="2x4 Paver"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9738"/>
+	</MetaData>
+	<MetaData name="SU_38994_38742_1_DATA" reference="Actor.SU_38994_38742_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="2x4 Paver"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9738"/>
+	</MetaData>
+	<MetaData name="SU_38994_38749_1_DATA" reference="Actor.SU_38994_38749_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="2x4 Paver"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9738"/>
+	</MetaData>
+	<MetaData name="SU_38994_38741_1_DATA" reference="Actor.SU_38994_38741_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="2x4 Paver"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9738"/>
+	</MetaData>
+	<MetaData name="SU_38994_38745_1_DATA" reference="Actor.SU_38994_38745_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="2x4 Paver"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9738"/>
+	</MetaData>
+	<MetaData name="SU_38994_38744_1_DATA" reference="Actor.SU_38994_38744_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="2x4 Paver"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9738"/>
+	</MetaData>
+	<MetaData name="SU_38994_38743_1_DATA" reference="Actor.SU_38994_38743_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="2x4 Paver"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9738"/>
+	</MetaData>
+	<MetaData name="SU_38994_38746_1_DATA" reference="Actor.SU_38994_38746_1">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="2x4 Paver"/>
+		<KeyValueProperty name="DefinitionIdName" type="String" val="9738"/>
+	</MetaData>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>

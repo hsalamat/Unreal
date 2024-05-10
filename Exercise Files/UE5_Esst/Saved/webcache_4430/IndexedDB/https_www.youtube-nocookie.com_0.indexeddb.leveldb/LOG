@@ -1,0 +1,6 @@
+2023/09/11-18:01:49.574 5f14 Creating DB C:/Users/Lynda/Desktop/Exercise Files/UE5_Esst/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/09/11-18:01:49.584 5f14 Reusing MANIFEST C:/Users/Lynda/Desktop/Exercise Files/UE5_Esst/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/11-18:02:04.186 5dc4 Level-0 table #5: started
+2023/09/11-18:02:04.196 5dc4 Level-0 table #5: 1167 bytes OK
+2023/09/11-18:02:04.201 5dc4 Delete type=0 #3
+2023/09/11-18:02:04.201 5dc4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
