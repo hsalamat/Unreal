@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Hooman/Unreal-Working/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Hooman/Unreal-Working/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"C:/Hooman/Unreal-Working/FirstPersonTemplate/Content/FirstPerson/Blueprints/GM_Target.uasset",
+				"C:/Hooman/Unreal-Working/FirstPersonTemplate/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Hooman/Unreal-Working/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/H4/X4MJ9145VOSZ0ISSUP2I95.uasset",
+				"C:/Hooman/Unreal-Working/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/IM/IAMNEJJJE3RXVGHYRHNO1B.uasset",
+				"C:/Hooman/Unreal-Working/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/Z2/A3WZVDAVG9EQUHK8W9XSBW.uasset",
+				"C:/Hooman/Unreal-Working/FirstPersonTemplate/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
+				"C:/Hooman/Unreal-Working/FirstPersonTemplate/Content/FirstPerson/Blueprints/WBP_UI.uasset",
+				"C:/Hooman/Unreal-Working/FirstPersonTemplate/Content/FirstPerson/Blueprints/FirstPersonHUD.uasset",
+				"C:/Hooman/Unreal-Working/FirstPersonTemplate/Content/FirstPerson/Blueprints/WBP_END.uasset",
+				"C:/Hooman/Unreal-Working/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/J4/SUM81MK5UC0ASQEVHU7PS0.uasset"
+			]
+		}
+	]
+}
